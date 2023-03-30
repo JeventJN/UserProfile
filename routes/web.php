@@ -25,3 +25,4 @@ Route::get('/education', function () {
     return view('education');
 });
 
+Route::redirect('/', '/profile');
