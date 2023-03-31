@@ -6,7 +6,7 @@
   @vite('resources/css/app.css')
 </head>
 <body>
-    <div class="relative w-screen h-screen bg-gradient-to-tl from-yellow-500 to-orange-500 ">
+    <div class="relative w-screen h-screen bg-gradient-to-tl from-yellow-400 to-orange-500">
         <div class="absolute flex h-screen items-center ml-[160px]">
             <div class="relative mx-auto w-96 overflow-hidden rounded-[16px] p-[1px]">
                 <div class="rounded-[15px] bg-white bg-opacity-50 p-6">
@@ -62,11 +62,11 @@
                 </div>
 
                 <div class="flex shadow-md rounded-xl ml-[570px] bg-white bg-opacity-50 items-center w-[250px] h-[80px] justify-content">
-                    <img src="Assets/10k.PNG" alt="" class="ml-[20px] w-16 h-16 rounded-full dark:bg-gray-500 aspect-square ml-4 ">
+                    <img src="Assets/15k.PNG" alt="" class="ml-[20px] w-16 h-16 rounded-full dark:bg-gray-500 aspect-square ml-4 ">
                     <div class="space-y-4 text-center divide-y divide-gray-700">
                         <div class="my-2 space-y-1">
                             <h2 class="text-xs sm:text-2xl">Best Time</h2>
-                            <p class="animate-pulse hover:animate-none px-[60px] text-19xl font-black sm:text-base dark:text-gray-400">55:37</p>
+                            <p class="animate-pulse hover:animate-none px-[60px] text-19xl font-black sm:text-base dark:text-gray-400">87:37</p>
                         </div>
                     </div>
                 </div>

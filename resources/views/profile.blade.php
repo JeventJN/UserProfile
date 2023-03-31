@@ -6,9 +6,33 @@
   @vite('resources/css/app.css')
 </head>
 <body>
-    <div class="w-full h-screen bg-gradient-to-tl from-blue-400 to-red-500">
-        <div class="">
-
+    <div class="relative w-screen h-screen bg-gradient-to-tl from-blue-400 to-red-500 flex items-center">
+        <img src="Assets/Sawarna.jpg" alt="" class="absolute h-screen w-[100vw]">
+        <img src="Assets/WhiteJevent.png" alt="" class="absolute h-[550px] ml-[215px]">
+        <img src="Assets/Jevent.png" alt="" class="absolute h-[550px] ml-[200px]">
+        <div class="absolute mx-[320px] w-[300px] max-w-sm bg-gradient-to-br from-green-950 to-neutral-500 border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 border-4">
+            <a href="#">
+                <img class="rounded-t-lg" src="/docs/images/blog/image-1.jpg" alt="" />
+            </a>
+            <div class="p-5">
+                <a href="#">
+                    <h5 class="mb-2 text-2xl font-bold tracking-tight text-neutral-100 dark:text-white">Jevent Natthannael</h5>
+                </a>
+                <p class="mb-3 font-normal text-gray-700 text-neutral-100 dark:text-gray-400">
+                    Tanggal Lahir : 19 Juni 2002 <br>
+                    Kewarganegaraan : Indonesia <br>
+                    Suku : Tionghua <br>
+                    Agama : Kristen Protestan <br>
+                </p>
+                <a href="/education" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-pink-700 rounded-lg hover:bg-red-500 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+                    Education
+                    <svg aria-hidden="true" class="w-4 h-4 ml-2 -mr-1" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
+                </a>
+                <a href="/hobby" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-pink-700 rounded-lg hover:bg-red-500 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+                    Hobby
+                    <svg aria-hidden="true" class="w-4 h-4 ml-2 -mr-1" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
+                </a>
+            </div>
         </div>
         <div class="relative bg-gray-50 dark:bg-slate-900 w-screen pattern">
             <nav
