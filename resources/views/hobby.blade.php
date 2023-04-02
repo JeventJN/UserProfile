@@ -62,11 +62,11 @@
                 </div>
 
                 <div class="flex shadow-md rounded-xl ml-[570px] bg-white bg-opacity-50 items-center w-[250px] h-[80px] justify-content">
-                    <img src="Assets/15k.PNG" alt="" class="ml-[20px] w-16 h-16 rounded-full dark:bg-gray-500 aspect-square ml-4 ">
+                    <img src="Assets/21k.PNG" alt="" class="ml-[20px] w-16 h-16 rounded-full dark:bg-gray-500 aspect-square ml-4 ">
                     <div class="space-y-4 text-center divide-y divide-gray-700">
                         <div class="my-2 space-y-1">
                             <h2 class="text-xs sm:text-2xl">Best Time</h2>
-                            <p class="animate-pulse hover:animate-none px-[60px] text-19xl font-black sm:text-base dark:text-gray-400">87:37</p>
+                            <p class="animate-pulse hover:animate-none px-[60px] text-19xl font-black sm:text-base dark:text-gray-400">2:10:17</p>
                         </div>
                     </div>
                 </div>

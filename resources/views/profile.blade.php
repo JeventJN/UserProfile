@@ -10,6 +10,26 @@
         <img src="Assets/Sawarna.jpg" alt="" class="absolute h-screen w-[100vw]">
         <img src="Assets/WhiteJevent.png" alt="" class="absolute h-[550px] ml-[215px]">
         <img src="Assets/Jevent.png" alt="" class="absolute h-[550px] ml-[200px]">
+        <img src="Assets/WhiteJevent1.png" alt="" class="absolute h-[550px] ml-[975px]">
+        <img src="Assets/Jevent1.png" alt="" class="absolute h-[550px] ml-[960px]">
+        <img src="Assets/Bird.png" alt="" class="self-center absolute h-[50px] ml-[400px] mb-[540px]">
+        <div class="z-50 h-[25px] w-[400px] bg-neutral-100 mb-[530px] ml-[470px] rounded-[20px]">
+            <p class="text-center">Reach Me!!!</p> 
+        </div>
+        <div class="absolute z-50 h-[30px] w-[200px] bg-neutral-100 mb-[460px] ml-[470px] flex justify-evenly rounded-[20px]"> 
+            <a href="https://instagram.com/jeventnatthannael?igshid=ZDdkNTZiNTM=">
+                <img src="Assets/ig.png" alt="" class="h-[20px] mt-[5px]">
+            </a>
+            <p class="text-center">@jeventnatthannael</p> 
+        </div>
+        <div class="absolute z-50 h-[30px] w-[200px] bg-neutral-100 mb-[390px] ml-[470px] flex justify-evenly rounded-[20px]"> 
+            <img src="Assets/wa.png" alt="" class="h-[20px] mt-[5px]">
+            <p class="text-center"> +62-82175932808 &nbsp&nbsp&nbsp</p> 
+        </div>
+        <div class="absolute z-50 h-[30px] w-[200px] bg-neutral-100 mb-[320px] ml-[470px] flex justify-evenly rounded-[20px]"> 
+            <img src="Assets/gmail.png" alt="" class="h-[20px] mt-[5px]">
+            <p class="text-center">jeventjn@gmail.com</p> 
+        </div>
         <div class="absolute mx-[320px] w-[300px] max-w-sm bg-gradient-to-br from-green-950 to-neutral-500 border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 border-4">
             <a href="#">
                 <img class="rounded-t-lg" src="/docs/images/blog/image-1.jpg" alt="" />
@@ -19,10 +39,10 @@
                     <h5 class="mb-2 text-2xl font-bold tracking-tight text-neutral-100 dark:text-white">Jevent Natthannael</h5>
                 </a>
                 <p class="mb-3 font-normal text-gray-700 text-neutral-100 dark:text-gray-400">
-                    Tanggal Lahir : 19 Juni 2002 <br>
-                    Kewarganegaraan : Indonesia <br>
-                    Suku : Tionghua <br>
-                    Agama : Kristen Protestan <br>
+                    Birth Date : June 19, 2002 <br>
+                    Nativity : Indonesia <br>
+                    Status : College Student <br>
+                    Religion : Christian <br>
                 </p>
                 <a href="/education" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-pink-700 rounded-lg hover:bg-red-500 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
                     Education
@@ -34,6 +54,68 @@
                 </a>
             </div>
         </div>
+
+        <div class="absolute ml-[780px] hover:ml-[760px] h-[400px] w-[50px] inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-pink-700 rounded-lg hover:bg-red-500 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800 font-black text-center">
+            T <br> R <br> A <br> I <br> T <br> S <br> <br> & <br> <br> F <br> A <br> V <br> O <br> U <br> R <br> I <br> T <br> E <br> S
+        </div>
+
+        <div class="absolute bg-gradient-to-br from-green-950 to-neutral-500 overflow-hidden hover:overflow-y-scroll h-[400px] w-[200px] ml-[800px] text-neutral-100 text-center font-semiblack text-[20px] font-serif">
+            <div class="h-[35px] w-[200px] bg-gradient-to-br from-green-950 to-neutral-500 border-2 border-neural-100">
+                Running
+            </div>
+            <div class="h-[35px] w-[200px] bg-gradient-to-br from-green-950 to-neutral-500 border-2 border-neural-100">
+                Active
+            </div>
+            <div class="h-[35px] w-[200px] bg-gradient-to-br from-green-950 to-neutral-500 border-2 border-neural-100">
+                Self-Assured
+            </div>
+            <div class="h-[35px] w-[200px] bg-gradient-to-br from-green-950 to-neutral-500 border-2 border-neural-100">
+                Bookworm
+            </div>
+            <div class="h-[35px] w-[200px] bg-gradient-to-br from-green-950 to-neutral-500 border-2 border-neural-100">
+                Ambitious
+            </div>
+            <div class="h-[35px] w-[200px] bg-gradient-to-br from-green-950 to-neutral-500 border-2 border-neural-100">
+                Dog Person
+            </div>
+            <div class="h-[35px] w-[200px] bg-gradient-to-br from-green-950 to-neutral-500 border-2 border-neural-100">
+                Cat Lover
+            </div>
+            <div class="h-[35px] w-[200px] bg-gradient-to-br from-green-950 to-neutral-500 border-2 border-neural-100">
+                Introvert
+            </div>
+            <div class="h-[35px] w-[200px] bg-gradient-to-br from-green-950 to-neutral-500 border-2 border-neural-100">
+                White/Black
+            </div>
+            <div class="h-[35px] w-[200px] bg-gradient-to-br from-green-950 to-neutral-500 border-2 border-neural-100">
+                Family-Oriented
+            </div>
+            <div class="h-[35px] w-[200px] bg-gradient-to-br from-green-950 to-neutral-500 border-2 border-neural-100">
+                Virtuous
+            </div>
+            <div class="h-[35px] w-[200px] bg-gradient-to-br from-green-950 to-neutral-500 border-2 border-neural-100">
+                Morning-Person
+            </div>
+            <div class="h-[35px] w-[200px] bg-gradient-to-br from-green-950 to-neutral-500 border-2 border-neural-100">
+                Brave
+            </div>
+            <div class="h-[35px] w-[200px] bg-gradient-to-br from-green-950 to-neutral-500 border-2 border-neural-100">
+                Disciplined
+            </div>
+            <div class="h-[35px] w-[200px] bg-gradient-to-br from-green-950 to-neutral-500 border-2 border-neural-100">
+                Independent
+            </div>
+            <div class="h-[35px] w-[200px] bg-gradient-to-br from-green-950 to-neutral-500 border-2 border-neural-100">
+                Light-Sleeper
+            </div>
+            <div class="h-[35px] w-[200px] bg-gradient-to-br from-green-950 to-neutral-500 border-2 border-neural-100">
+                Sprint
+            </div>
+            <div class="h-[35px] w-[200px] bg-gradient-to-br from-green-950 to-neutral-500 border-2 border-neural-100">
+                Indifferent
+            </div>
+        </div>
+
         <div class="relative bg-gray-50 dark:bg-slate-900 w-screen pattern">
             <nav
             class="z-20 flex shrink-0 grow-0 justify-around gap-4 border-t border-gray-200 bg-white/50 p-2.5 shadow-lg backdrop-blur-lg dark:border-slate-600/60 dark:bg-slate-800/50 fixed top-2/4 -translate-y-2/4 left-6 min-h-[auto] min-w-[64px] flex-col rounded-lg border"
