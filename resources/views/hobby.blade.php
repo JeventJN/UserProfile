@@ -3,6 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hobby</title>
   @vite('resources/css/app.css')
 </head>
 <body>
@@ -40,7 +41,7 @@
                         </div>
                     </div>
                 </div>
-                        
+
                 <div class="flex shadow-md rounded-xl ml-[570px] bg-white bg-opacity-50 items-center w-[250px] h-[80px] justify-content">
                     <img src="Assets/5k.PNG" alt="" class="ml-[20px] w-16 h-16 rounded-full dark:bg-gray-500 aspect-square ml-4 ">
                     <div class="space-y-4 text-center divide-y divide-gray-700">
@@ -76,11 +77,11 @@
         <div class="absolute flex h-screen items-center ml-[885px]">
             <img src="Assets/Statistic.png" alt="" class="h-[455px] rounded-[25px]">
         </div>
-        
+
         <div class="absolute flex h-screen items-center ml-[1130px] animate-pulse hover:animate-none">
-            <a href="https://www.strava.com/athletes/107733050">
+            <a href="activity">
                 <img src="Assets/Strava.png" alt="" class="rounded-[500px] h-[100px] hover:h-[110px]">
-                <div class="text-center font-black font=7xl">VISIT ME!!!</div>
+                <div class="text-center font-black font=7xl">SEE MORE!!!</div>
             </a>
         </div>
 
@@ -159,6 +160,6 @@
             </a>
         </div>
     </div>
-    
+
 </body>
 </html>

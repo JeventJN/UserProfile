@@ -3,6 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Profile</title>
   @vite('resources/css/app.css')
 </head>
 <body>
@@ -14,21 +15,21 @@
         <img src="Assets/Jevent1.png" alt="" class="absolute h-[550px] ml-[960px]">
         <img src="Assets/Bird.png" alt="" class="self-center absolute h-[50px] ml-[400px] mb-[540px]">
         <div class="z-50 h-[25px] w-[400px] bg-neutral-100 mb-[530px] ml-[470px] rounded-[20px]">
-            <p class="text-center">Reach Me!!!</p> 
+            <p class="text-center">Reach Me!!!</p>
         </div>
-        <div class="absolute z-50 h-[30px] w-[200px] bg-neutral-100 mb-[460px] ml-[470px] flex justify-evenly rounded-[20px]"> 
+        <div class="absolute z-50 h-[30px] w-[200px] bg-neutral-100 mb-[460px] ml-[470px] flex justify-evenly rounded-[20px]">
             <a href="https://instagram.com/jeventnatthannael?igshid=ZDdkNTZiNTM=">
                 <img src="Assets/ig.png" alt="" class="h-[20px] mt-[5px]">
             </a>
-            <p class="text-center">@jeventnatthannael</p> 
+            <p class="text-center">@jeventnatthannael</p>
         </div>
-        <div class="absolute z-50 h-[30px] w-[200px] bg-neutral-100 mb-[390px] ml-[470px] flex justify-evenly rounded-[20px]"> 
+        <div class="absolute z-50 h-[30px] w-[200px] bg-neutral-100 mb-[390px] ml-[470px] flex justify-evenly rounded-[20px]">
             <img src="Assets/wa.png" alt="" class="h-[20px] mt-[5px]">
-            <p class="text-center"> +62-82175932808 &nbsp&nbsp&nbsp</p> 
+            <p class="text-center"> +62-82175932808 &nbsp&nbsp&nbsp</p>
         </div>
-        <div class="absolute z-50 h-[30px] w-[200px] bg-neutral-100 mb-[320px] ml-[470px] flex justify-evenly rounded-[20px]"> 
+        <div class="absolute z-50 h-[30px] w-[200px] bg-neutral-100 mb-[320px] ml-[470px] flex justify-evenly rounded-[20px]">
             <img src="Assets/gmail.png" alt="" class="h-[20px] mt-[5px]">
-            <p class="text-center">jeventjn@gmail.com</p> 
+            <p class="text-center">jeventjn@gmail.com</p>
         </div>
         <div class="absolute mx-[320px] w-[300px] max-w-sm bg-gradient-to-br from-green-950 to-neutral-500 border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 border-4">
             <a href="#">

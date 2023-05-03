@@ -4,6 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   @vite('resources/css/app.css')
+  <title>Education</title>
 </head>
 <body>
     <div class="bg-gradient-to-tl from-blue-400 to-red-500">
@@ -140,6 +141,6 @@
             </a>
         </div>
     </div>
-    
+
 </body>
 </html>
