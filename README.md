@@ -2,6 +2,8 @@ Profile User:
 1. Profile Page
 2. Education Page
 3. Hobby Page
+4. Activity List
+5. Activity Detail (Best Time & Injury Indicator)
 
 <h1 class="text-gray-800 font-bold text-2xl my-2">Profile Page :</h1>
 Mainly about my basic data information and Traits and Favourites
@@ -20,7 +22,7 @@ Mainly about my most favourites hobby, which is Running. In this page you could 
 ![HobbyPage](https://github.com/JeventJN/UserProfile/blob/main/public/Assets/HobbyPage.png)
 
 <h1 class="text-gray-800 font-bold text-2xl my-2">Activity List : </h1>
-List of some running data history that can be selected to see more details about activity on that day.
+List of some running data history that can be selected to see more details about activity on that day. To Access this page, just go to HobbyPage and click on SeeMore!!!'s button.
 
 ![ActivityList](https://github.com/JeventJN/UserProfile/blob/main/public/Assets/AcitvityList.png)
 
