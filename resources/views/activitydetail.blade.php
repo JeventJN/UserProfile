@@ -4,7 +4,7 @@
 
 @section('judul')
 <div class="flex items-center">
-    <div class="flex justify-center text-[5vw] w-screen bg-gradient-to-tl from-yellow-400 to-orange-500">Activity Details</div>
+    <div class="flex justify-center text-[5vw] w-screen bg-gradient-to-tl from-yellow-400 to-orange-500">Activity Detail</div>
     <div class="absolute flex items-center">
         <a href="/activity">
             <svg xmlns="http://www.w3.org/2000/svg" width="5vw" height="5vw" viewBox="0 0 24 24"><path fill="currentColor" d="m12 20l-8-8l8-8l1.425 1.4l-5.6 5.6H20v2H7.825l5.6 5.6L12 20Z"/></svg>
