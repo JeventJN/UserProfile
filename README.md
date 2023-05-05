@@ -51,6 +51,8 @@ Page that show my running data details on the date. There are 4 category of runn
 
 <h1 class="text-gray-800 font-bold text-2xl my-2">Test :</h1>
 
-![Test](https://github.com/JeventJN/UserProfile/blob/main/public/Assets/Test.gif)
+![Test1](https://github.com/JeventJN/UserProfile/blob/main/public/Assets/Test1.gif)
+
+![Test2](https://github.com/JeventJN/UserProfile/blob/main/public/Assets/Test2.gif)
 
 
