@@ -49,3 +49,8 @@ Page that show my running data details on the date. There are 4 category of runn
 
 ![ActivityDetail5](https://github.com/JeventJN/UserProfile/blob/main/public/Assets/ActivityDetails21K.png)
 
+<h1 class="text-gray-800 font-bold text-2xl my-2">Test :</h1>
+
+![Test](https://github.com/JeventJN/UserProfile/blob/main/public/Assets/Test.gif)
+
+
